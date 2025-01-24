@@ -2,8 +2,6 @@
 
 Tech Wordle is a fun, tech-themed word guessing game inspired by the popular game Wordle. Test your tech knowledge by guessing words related to technology, programming, and everything in between. Hosted live [here](https://techwordle.vercel.app/).
 
-![Tech Wordle Screenshot](https://techwordle.vercel.app/og-image.png)
-
 ---
 
 ## Status
